@@ -1,1 +1,3 @@
-# itacademy_first_project
+# Homework_3_lesson
+This file is contain Additional Information
+A Krabby Patty is a veggie burger sold by the fictional restaurant the Krusty Krab in the animated television series SpongeBob SquarePants. The series' creator, Stephen Hillenburg, expressly stated that the patties do not contain any meat. Created by the restaurant's founder Eugene Krabs and his archenemy Plankton, it is what the main character SpongeBob cooks throughout his job as a fry cook, as well as the restaurant's trademark food and most famous burger in Bikini Bottom. A prominent storyline throughout the series is Krabs' nemesis Plankton trying to steal the Krabby Patty secret formula. This running gag was given a backstory in the special "Friend or Foe", where it is revealed that Krabs and Plankton created the Krabby Patty to compete with the health-violating restaurant Stinky Burgers.

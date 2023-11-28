@@ -5,7 +5,8 @@ module.exports = {
     },
     extends: 'eslint:recommended',
     rules: {
-      
+    'no-console': 'warn',
+    'no-unused-vars': 'error',
     },
-    ignorePatterns: ['node_modules/', 'dist/'],
+    ignorePatterns: ['node_modules/', 'mochawesome-report/', 'src/', '.DS_Store'],
   };
